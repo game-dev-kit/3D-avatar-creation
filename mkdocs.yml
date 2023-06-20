@@ -2,4 +2,4 @@ site_name: 3D avatar creation
 repo_url: https://github.com/game-dev-kit/3D-avatar-creation
 
 nav:
-  - TD Classifier: 'index.md'
+  - 3D avatar creation: 'index.md'
